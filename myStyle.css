@@ -1,0 +1,6 @@
+.the-box{
+  width: 350px;
+  padding: 10px;
+  box-sizing: border-box;
+  opacity: 0.9;
+}
